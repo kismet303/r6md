@@ -20,3 +20,5 @@ Imports:
     dplyr,
     rmarkdown,
     knitr
+URL: https://github.com/kismet303/r6md
+BugReports: https://github.com/kismet303/r6md/issues
